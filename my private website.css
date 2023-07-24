@@ -1,0 +1,14 @@
+.whole{
+    border: 1px solid #000000;
+    border-radius: 10px;
+    margin: auto;
+    padding: 7px 80px;
+    box-shadow: 0 3px 20px ;
+    
+};
+.title{
+    margin: auto;
+};
+.name{
+    padding: 7px 2px;
+};
